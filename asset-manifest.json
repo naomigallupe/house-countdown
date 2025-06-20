@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/house-countdown/static/css/main.1ef6f0c8.css",
+    "main.js": "/house-countdown/static/js/main.16b6aa66.js",
+    "static/js/453.0d1a774d.chunk.js": "/house-countdown/static/js/453.0d1a774d.chunk.js",
+    "static/media/X12146391_0.jpg": "/house-countdown/static/media/X12146391_0.f32c5eabb166f2972a02.jpg",
+    "index.html": "/house-countdown/index.html",
+    "main.1ef6f0c8.css.map": "/house-countdown/static/css/main.1ef6f0c8.css.map",
+    "main.16b6aa66.js.map": "/house-countdown/static/js/main.16b6aa66.js.map",
+    "453.0d1a774d.chunk.js.map": "/house-countdown/static/js/453.0d1a774d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef6f0c8.css",
+    "static/js/main.16b6aa66.js"
+  ]
+}
